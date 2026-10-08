@@ -1,5 +1,8 @@
 # Chukua releases
 
+[![Total downloads](https://img.shields.io/github/downloads/eddyndumia/chukua-releases/total?label=downloads)](https://github.com/eddyndumia/chukua-releases/releases)
+[![Latest release downloads](https://img.shields.io/github/downloads/eddyndumia/chukua-releases/latest/total?label=latest%20release)](https://github.com/eddyndumia/chukua-releases/releases/latest)
+
 Android builds of [Chukua](https://github.com/eddyndumia), free stuff near you in Nairobi.
 The app's code is private; this repo only hosts the APKs.
 
@@ -9,7 +12,11 @@ The app's code is private; this repo only hosts the APKs.
 
 1. Download `chukua.apk` on your Android phone.
 2. Open it. If Android asks, allow your browser to install unknown apps.
-3. Open Chukua and sign in with your phone number.
+3. Open Chukua and sign in with the code sent to your email.
+
+## Download counts
+
+The counters above are GitHub's own download counts for the APKs in this repo, all CPU builds added up. They include downloads from the website and in-app updates, since both fetch from here. Play Store installs are not counted.
 
 ## Test builds
 
